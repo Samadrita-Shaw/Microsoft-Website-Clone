@@ -1,7 +1,7 @@
 # Microsoft-Website-Clone
 ## This is the clone of the Microsoft Website built with HTML🏗 and Tailwind CSS 🌊. It is completely responsive.
 
-✨You may access the website here: https://curious-salmiakki-3b9e82.netlify.app/
+✨You may access the website here: https://microsoft-opening-page-clone.netlify.app/
 </br>
 
 Here is one of the images:
